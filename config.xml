@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.citytour-prim.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. citytour-prim.ru</name>
+    <name>citytour-prim.ru</name>
 
     <description>
         Информационный справочник обо всех достопримечательностях,  развлечениях, компаниях работающих в туристической отрасли  г. Находки и прилегающих районах
